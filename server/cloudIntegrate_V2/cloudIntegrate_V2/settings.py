@@ -97,7 +97,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'drawcloud',
         'USER': 'root',
-        'PASSWORD': 'passworD@123',
+        'PASSWORD': 'Password@123',
         'HOST': 'localhost',  # 'localhost' if running on the same machine
         'PORT': '3306',  # Usually '3306'
     }
